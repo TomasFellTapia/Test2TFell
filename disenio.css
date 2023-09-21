@@ -1,0 +1,25 @@
+.reg{
+    width: 50%;
+    border-radius: 99%;
+    border: 5px solid;
+    cursor: pointer;
+    text-align: center;
+    
+}
+.reg:hover{
+    
+    
+    background-color: rgb(171, 202, 250);
+}
+.ccuenta{
+    background-color: rgb(171, 202, 250);
+    width: 50%;
+    border-radius: 99%;
+    border: 5px solid;
+    cursor: pointer;
+    text-align: center;
+}
+
+.ccuenta:hover{
+    background-color: rgb(146, 187, 248);
+}
